@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''A module with tools.
+'''A module with tools for request catch.
 '''
 import redis
 import requests
